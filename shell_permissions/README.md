@@ -29,4 +29,4 @@ This script adds execute permission to the owner and group ownwer, read permissi
 This script sets the mode of the file 'hello' to '-rwxr-x-wx'
 
 
-## 7-permissions
+## 9-John_Doe
