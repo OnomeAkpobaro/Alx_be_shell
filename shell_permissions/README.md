@@ -24,3 +24,9 @@ This script adds execute permission to the owner and group ownwer, read permissi
 
 
 ## 6-multiple_permissions
+
+
+This script sets the mode of the file 'hello' to '-rwxr-x-wx'
+
+
+## 7-permissions
