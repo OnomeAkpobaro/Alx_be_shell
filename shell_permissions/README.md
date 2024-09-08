@@ -17,7 +17,7 @@ This script creates an empty file called 'hello'.
 
 This script adds execute permission to the owner of the file 'hello'.
 
-## 5-execut
+## 5-execute
 
 
 This script adds execute permission to the owner and group ownwer, read permission to other users, for the file 'hello'.
