@@ -15,3 +15,6 @@ This script creates an empty file called 'hello'.
 ## 4-empty
 
 
+This script adds execute permission to the owner of the file 'hello'.
+
+## 5-execute
